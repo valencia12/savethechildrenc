@@ -55,11 +55,11 @@ li{
     text-align: center;
     font-family: 'Gill Sans Nova';
     font-size: 15px;
+    margin-left: -27px;
 }
 .parent{
     background-color: #ffffff;
     margin-top: -39px;
-    padding: 20%;
     flex-wrap: wrap;
 }
 
@@ -348,6 +348,12 @@ td{
     margin-right: 20px;
     margin-top: 5px;
 }
+.check2{
+    max-width: 40px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
 
 .line{
     max-width: 100%;
@@ -589,7 +595,7 @@ td{
     }
 
     .check1{
-        width: 1px;
+        width: 0px;
     }
     table {
         display: table;
@@ -598,6 +604,31 @@ td{
         border-spacing: 8px;
         border-color: grey;
     }
+
+    .girdl1{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .back01{
+        display: none;
+    }
+
+    .vis {
+        margin-top: 12%;
+        text-align: center;
+        font-family: 'Gill Sans Nova';
+        font-size: 15px;
+        margin-left: -23px;
+    }
+    .check2{
+        width: 20px;
+    }    
+
+    .positiontable {
+        margin-left: 12%;
+    }
+
 }
 
 
