@@ -505,6 +505,7 @@ td{
     grid-template-columns: 1fr;
     text-align: justify;
     background-color: #ffffff;
+    margin-left: -24px;
     }   
 
     .divposi {
