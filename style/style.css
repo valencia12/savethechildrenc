@@ -473,6 +473,27 @@ td{
         margin-left: -39px;
         text-align: left;
     }
+
+    .book223{
+        max-width: 100%;
+        height: 160px;
+    }
+
+    .book21 {
+        max-width: 100%;
+        height: 130px;
+    }
+    
+    .book213 {
+        max-width: 100%;
+        height: 131px;
+    }
+
+    .book223 {
+        max-width: 100%;
+        height: 131px;
+    }
+
     
 }
 @media screen and (max-width:570){
