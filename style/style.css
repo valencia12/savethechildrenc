@@ -1,0 +1,457 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    font-family: 'Gill Sans Infanted';
+    src: url("../fonts/GillSansInfantStd.otf"); 
+}
+ @font-face{
+     font-family: 'Gill Sans Nova';
+     src: url("../fonts/GillSansInfantStd-Bold.otf");
+ }
+
+@font-face{
+    font-family: 'Trade Gothic';
+    src: url("../fonts/TradeGothicLTCom-BdCn20.ttf");
+}
+
+
+body{
+    background-color: #ffffff;
+    font-family:'Gill Sans Infanted';
+    margin: 0;
+}
+
+.banner1{
+    max-width: 100%;
+    width: 25%;
+}
+
+.savet1{
+    background-color: black;
+    padding: .2%;
+}
+
+header > ul{
+    padding: 0%;
+    background-color: #ffffff;
+    margin-left: 4em;
+}
+
+
+
+li{
+    display: inline-block;
+    padding-left: 4%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    justify-content: space-between;
+}
+
+.vis{
+    margin-top: 12%;
+    text-align: center;
+    font-family: 'Gill Sans Nova';
+    font-size: 15px;
+}
+.parent{
+    background-color: #ffffff;
+    margin-top: -39px;
+}
+
+.img1{
+    width: 94%;
+    height: 20%;
+    margin-top: -70px;
+}
+.encasa1{
+    font-size: 28px;
+    font-family: 'Trade Gothic';
+    margin-top: -15px;
+}
+.article1{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: justify;
+    background-color: #ffffff;;
+}
+
+.subarti2{
+    margin-top: 5em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: justify;
+    background-color: #ffffff;
+    
+}
+
+.article2{
+    background-color: rgb(220, 215, 198);
+    padding: 2em;
+}
+.boldm{
+    font-family: 'Gill Sans Nova';
+}
+.art1{
+    font-size: 15px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    font-family: 'Gill Sans Infanted';
+}
+
+.tittle1{
+    font-family:'Trade Gothic';
+    font-size: 25px;
+}
+
+.art2{
+    font-size: 15px;
+    padding: 0px 0px 1px;
+}
+ .art21{
+    font-size: 15px;
+    padding: 0px 0px 5px;
+ }
+
+.pos{
+    margin-left: 3em;
+    margin-bottom: 2em;
+}
+
+.divposi{
+    text-align: center;
+    padding: 0px;
+    margin-top:-69px;
+}
+
+.tittleb{
+    padding: .5em 0em .5em .5em;
+    color: #ffffff;
+    background-color: rgb(40, 40, 38);
+    font-family: 'Trade Gothic';
+    font-size: 25px;
+}
+
+.article2b{
+    text-align: center;
+    color: rgb(219, 30, 38);
+    font-family: 'Trade Gothic';
+    margin-bottom: 4%;
+    font-size: 25px;
+}
+
+.article2bb{
+    color: rgb(219, 30, 38);
+    font-size: 1.5em;
+}
+
+.fragment{
+    font-size: 20px;
+}
+.articlesub3{
+    display: flex;
+    background-color: white;
+    padding: 0;
+}
+.sizeimg1{
+    width: 200px;
+    margin-bottom: -2px;
+}
+.sizeimg{
+    height: 247px;
+}
+.newc > p {
+    font-size: 10px;
+}
+
+.newc > h3 {
+    font-family: 'Gill Sans Infanted';
+}
+
+.tittlesuba{
+    margin-top: 98px;
+    font-size: 27px;
+    text-align: center;
+    color: rgb(219, 30, 38);
+    font-family:'Trade Gothic' ;
+}
+
+.artsub3a{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: rgb(220, 215, 198);
+    margin-top: -10px;
+    padding: 2em 0em .5em 2em;
+}
+
+.artsub3a > div > p{
+    text-align: justify;
+    padding: 2px;
+    font-size: 15px;
+}
+
+.img4{
+    max-width: 100%;
+    width: 25%;
+    margin-left: 35%;
+    margin-top: 5px;
+    padding: 0px 0px 35px;
+}
+.back1{
+    max-width: 100%;
+    width: 347px;
+    margin-top: 33px;
+}
+
+.colortd{
+
+}
+
+
+
+
+.newb{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: -1em;
+    padding: 2em 0em .5em 2em;
+    background-color: rgb(220, 215, 198);
+}
+
+.newb > div > p{
+    text-align: justify;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.imgvc{
+    max-width: 100%;
+    width: 223px;
+    margin-left: 17%;
+    margin-top: -13%;
+}
+
+.imgvcl{
+   padding: 10%;
+}
+
+.imgvc1{
+    max-width: 100%;
+    height: 87%;
+    margin-left: 46%;
+    margin-top: 4%;
+    padding: 0px 0px 15px;
+}
+
+
+
+.centerm{
+    text-align: center;
+    font-family: 'Gill Sans Nova';
+    font-size: 22px;
+}
+
+.tittlethe{
+    background-color: rgb(219, 30, 38);
+    color: white;
+    padding: 1em 1em 1em 1em;
+    font-size: 27px;
+    font-family: 'Trade Gothic';
+    text-align: center;
+}
+
+.booksStore{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.titlep{
+    font-size: 20px;
+}
+
+.booksStore > div > img{
+    width: 90%;
+    margin-left: 20px;
+}
+
+.book2{
+    max-width: 100%;
+    height: 100%;
+}
+
+.book21{
+    max-width: 100%;
+    height: 99%;
+}
+
+.video{
+    max-width: 100%;
+    margin-bottom: 10%;
+    margin-top: -17%;
+    margin-left: 5%;
+}
+
+.book213{
+    max-width: 100%;
+    height: 99%;
+}
+
+.youtube1{
+    max-width: 100%;
+    width: 30%;
+}
+
+.book223{
+    max-width: 100%;
+    height: 99%;    
+}
+
+.textcenter{
+    text-align: center;
+    font-size: 27px;
+    font-family: 'Trade Gothic';
+}
+
+.textcolor{
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Trade Gothic';
+}
+
+table{
+    padding: 2px;
+    border-spacing: 16px;
+}
+
+tr > th {
+    padding: 10px;
+    font-size: 1.5em;
+    font-family: arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(40, 40, 38);
+}
+
+td{
+    padding: 1em;
+    font-size: 1.5em;
+    background-color: grey;
+    width: 50%;
+}
+
+.check1{
+    max-width: 40px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.line{
+    max-width: 100%;
+    width: 100%;
+}
+.no{
+    color: #DB1E26;
+    font-size: 35px;
+    font-family: 'Gill Sans Nova';
+}
+
+.mask{
+    max-width: 100%;
+    width: 75%;
+}
+.si{
+    color: #8AC43F;
+    font-size: 35px;
+    font-family: 'Gill Sans Nova';
+}
+
+.girdl1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.pego{
+    font-size: 10px;
+}
+
+.gridl{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.posf{
+    width: 100%;
+}
+
+.fot{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gill Sans Infanted';
+}
+
+.footer{
+   max-width: 100%;
+   width: 100%;
+}
+.footer > div{
+    padding: 4em;
+}
+
+.pfot{
+    text-align: center;
+}
+
+.td-subwrapper {
+    display: flex;
+    align-items: center;
+}
+
+.td-subwrapper p {
+    font-weight: 500;
+    font-size: 15px;
+}
+
+
+.td-subwrapper1{
+    display: flex;
+    align-items: center;
+    padding: 0%;
+}
+
+.td-subwrapper1 p {
+    
+    font-size: 15px;
+    
+}
+
+.artilce3{
+
+}
+
+.positiontable{
+   
+   margin-left: 20%;
+}
+ .vis2{
+     font-family: 'Gill Sans Infanted';
+     font-size: 15px;
+ }
+
+ .infanted{
+    font-family: 'Gill Sans Nova';
+    font-size: 25px;
+ }
+
+ .copy{
+     background-color: #222221;
+}
+.copy > p{
+ padding: .5%;
+ margin-left: 40px;
+ color: #ffffff;
+ font-size: 12px;
+ font-family: 'Gill Sans Infanted';
+}   
