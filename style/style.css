@@ -474,9 +474,174 @@ td{
     }
     
 }
+@media screen and (max-width:570){
+    .article2 {
+        background-color: rgb(220, 215, 198);
+        padding: 12px;
+        margin-right: -115px;
+        margin-left: -39px;
+        text-align: left;
+    }
+    
+}
 
 
 @media screen and (max-width:375px){
+    .article1 {
+        margin-top: 10px;
+        display: grid;
+        grid-template-columns: 1fr;
+        padding: -15px;
+        background-color: #ffffff;
+        margin-right: -43px;
+        margin-left: -36px;
+        text-align: left;
+    }
+
+    .subarti2 {
+    margin-top: 3em;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: justify;
+    background-color: #ffffff;
+    }   
+
+    .divposi {
+        text-align: center;
+        padding: 0px;
+        margin-top: -68px;
+        margin-left: -95px;
+    }
+    
+    .video {
+        max-width: 200%;
+        margin-bottom: 23%;
+        margin-top: -25%;
+        margin-left: -10%;
+        width: 327px;
+        height: 172px;
+    }
+
+    .fragment{
+        font-size: 18px;
+        margin-left: 96px;
+        margin-top: -23px;
+        text-align: initial;
+    }
+
+    .article2b{
+        max-width: 200%;
+        text-align: center;
+        color: rgb(219, 30, 38);
+        font-family: 'Trade Gothic';
+        margin-bottom: 12%;
+        font-size: 23px;
+        margin-left: 95px;
+    }
+
+    .youtube1{
+        max-width: 100%;
+        width: 36%;
+        margin-left: 60px;
+    }
+
+    .flexw{
+        margin-left: 1px;
+    }
+
+    .parent{
+        background-color: #ffffff;
+        margin-top: -39px;
+        padding: 18%;
+        flex-wrap: wrap;
+    }
+
+    .sizeimg1{
+        display: none;
+    }
+
+    .sizeimg{
+        display: none;
+    }
+
+    .tittlesuba{
+        margin-top: 27px;
+        margin-bottom: 36px;
+        font-size: 24px;
+        text-align: center;
+        color: rgb(219, 30, 38);
+        font-family: 'Trade Gothic';
+    }
+
+    .artsub3a{
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: rgb(220, 215, 198);
+        margin-top: -10px;
+        padding: 32px 20px 6px 16px;
+        margin-right: -7px;
+        margin-left: 29px;
+    }
+
+    .newb {
+        display: grid; 
+        grid-template-columns: 1fr;
+        margin-bottom: -1em;
+        padding: 2em 1em .5em 2em;
+        background-color: rgb(220, 215, 198);
+    }
+
+    td {
+        padding: 11px 20px 5px 0px;
+        font-size: 1.5em;
+        background-color: grey;
+        width: 50%;
+        text-align: start;
+    }
+
+    .td-subwrapper p {
+        font-weight: 500;
+        font-size: 11px;
+    }
+
+    .check1{
+        width: 0px;
+    }
+    table {
+        display: table;
+        border-collapse: separate;
+        box-sizing: border-box;
+        border-spacing: 8px;
+        border-color: grey;
+    }
+
+    .girdl1{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .back01{
+        display: none;
+    }
+
+    .vis {
+        margin-top: 12%;
+        text-align: center;
+        font-family: 'Gill Sans Nova';
+        font-size: 15px;
+        margin-left: -23px;
+    }
+    .check2{
+        width: 20px;
+    }    
+
+    .positiontable {
+        margin-left: 12%;
+    }
+
+}
+
+@media screen and (max-width:570){
     .article1 {
         margin-top: 10px;
         display: grid;
