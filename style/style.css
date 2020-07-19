@@ -520,6 +520,31 @@ td{
         text-align: left;
     }
 
+    .imgvc1{
+        max-width: 100%;
+        height: 176px;
+        margin-left: 46%;
+        margin-top: 4%;
+        padding: 0px 0px 15px;
+    }
+
+    .banner1{
+        max-width: 100%;
+        width: 98%;
+    }
+
+    .savet1 {
+        background-color: black;
+        padding: 0px 25px 0px 19px;
+    }
+
+    .imgvc{
+        max-width: 100%;
+        width: 118px;
+        margin-left: 17%;
+        margin-top: -13%;
+    }
+
     .subarti2 {
     margin-top: 3em;
     display: grid;
