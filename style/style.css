@@ -481,17 +481,17 @@ td{
 
     .book21 {
         max-width: 100%;
-        height: 130px;
+        height: 103px;
     }
     
     .book213 {
         max-width: 100%;
-        height: 131px;
+        height: 103px;
     }
 
     .book223 {
         max-width: 100%;
-        height: 131px;
+        height: 103px;
     }
 
     
@@ -565,7 +565,7 @@ td{
     .youtube1{
         max-width: 100%;
         width: 36%;
-        margin-left: 60px;
+        margin-left: 74px;
     }
 
     .flexw{
@@ -660,6 +660,33 @@ td{
 
     .positiontable {
         margin-left: 12%;
+    }
+
+    .encasa1{
+        font-size: 23px;
+        font-family: 'Trade Gothic';
+        margin-top: -15px;
+    }
+
+    .infanted{
+        font-family: 'Gill Sans Nova';
+            font-size: 18px;
+    }
+
+    .tittleb{
+        padding: .5em 0em .5em .5em;
+        color: #ffffff;
+        background-color: rgb(40, 40, 38);
+        font-family: 'Trade Gothic';
+        font-size: 16px;
+    }
+    .tittlethe{
+        background-color: rgb(219, 30, 38);
+        color: white;
+        padding: 1em 1em 1em 1em;
+        font-size: 16px;
+        font-family: 'Trade Gothic';
+        text-align: center;
     }
 
 }
