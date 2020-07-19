@@ -528,6 +528,18 @@ td{
         padding: 0px 0px 15px;
     }
 
+    .si {
+        color: #8AC43F;
+        font-size: 26px;
+        font-family: 'Gill Sans Nova';
+    }
+
+    .no {
+        color: #DB1E26;
+        font-size: 26px;
+        font-family: 'Gill Sans Nova';
+    }
+
     .banner1{
         max-width: 100%;
         width: 98%;
@@ -536,6 +548,18 @@ td{
     .savet1 {
         background-color: black;
         padding: 0px 25px 0px 19px;
+    }
+    .textcenter {
+        text-align: center;
+        font-size: 19px;
+        font-family: 'Trade Gothic';
+    }
+
+    .textcolor {
+        color: red;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Trade Gothic';
     }
 
     .imgvc{
