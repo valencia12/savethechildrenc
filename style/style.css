@@ -182,6 +182,8 @@ li{
     font-family:'Trade Gothic' ;
 }
 
+
+
 .artsub3a{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -208,12 +210,6 @@ li{
     width: 347px;
     margin-top: 33px;
 }
-
-.colortd{
-
-}
-
-
 
 
 .newb{
@@ -299,9 +295,10 @@ li{
 
 .audio{
     max-width: 100%;
+    width: 100%;
     margin-bottom: 2%;
-    margin-top: -17%;
-    margin-left: 27%;
+    margin-top: -10%;
+    margin-left: 5%;
 }
 
 .book213{
@@ -528,10 +525,11 @@ td{
     }
     .audio {
         max-width: 100%;
-        width: 100%;
+        width: 99%;
+        height: 100%;
         margin-bottom: 8%;
-        margin-top: -25%;
-        margin-left: 13%;
+        margin-top: -15%;
+        margin-left: 4%;
     }
     
 
